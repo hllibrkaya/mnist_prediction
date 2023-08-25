@@ -28,23 +28,23 @@ This customizability provides you with the flexibility to adapt your project to 
 The neuron counts and layer structures of the project can influence learning capabilities. By experimenting with different architectures and observing the results, you can achieve the best outcomes.
 
 
-### Learning Rate
+- ### Learning Rate
 
 The learning rate of the artificial neural network is set to 0.3.
 
-### Weight Matrices
+- ### Weight Matrices
 
 The weight matrices of the artificial neural network are initialized with random values. Weight matrices represent the connections between the hidden layer and the output layer.
 
-### Activation Function
+- ### Activation Function
 
 The activation function of the neurons in the network is set to the sigmoid function.
 
-### Training and Testing
+- ### Training and Testing
 
 The project is trained and tested on the MNIST dataset. In the training step, the network updates its weights using the provided data to learn. In the testing step, the trained network evaluates accuracy on new data.
 
-### Accuracy Measurement
+- ### Accuracy Measurement
 
 The project measures accuracy on test data. Predicted results are compared with actual labels, and the percentage of correct predictions is calculated.
 
